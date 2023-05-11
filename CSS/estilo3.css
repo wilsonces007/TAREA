@@ -1,0 +1,114 @@
+
+.top{
+    background-color: rgb(243, 247, 250);
+    color: rgb(62, 139, 43);
+    padding: 15px;
+    font-size: 20px;
+}
+.top{
+    border-radius: 6px;
+    margin: 4px;
+}
+
+.top2{
+    background-color: rgb(243, 247, 250);
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.main{
+    position: relative;
+    overflow: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+    padding: 0%;
+    
+    justify-content: center;
+}
+
+
+
+
+
+#listamenu{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
+.itenmenu{
+    border: 20px;
+    background-color: #252424;
+    color: white;
+    padding: 4px;
+    list-style-type: none;
+    cursor: pointer;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+}
+.itenmenu{
+    margin: 4px;
+    padding: 2px;
+}
+.centro{
+    background-color: rgb(243, 247, 250);
+    color: rgb(62, 139, 43);
+    padding: 15px;
+    font-size: 30px;
+}
+
+.centro2{
+    background-color: rgb(243, 247, 250);
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.centro3{
+    background-color: rgb(243, 247, 250);
+    color: rgb(62, 139, 43);
+    padding: 15px;
+    font-size: 20px;
+}
+
+.centro4{
+    background-color: rgb(243, 247, 250);
+    color: black;
+    padding: 15px;
+    font-size: 30px;
+}
+.sidebar{
+    background-color: rgb(243, 247, 250);
+    color: rgb(62, 139, 43);
+    padding: 15px;
+    font-size: 30px;
+}
+.centro5{
+        background-color: rgb(243, 247, 250);
+        color: black;
+        padding: 15px;
+        font-size: 30px;
+    }
+    
+
+div{
+    display: block;
+}
+
+.abajo{
+    background-color:#d14836;
+    color: rgb(240, 243, 246);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+
+}

@@ -1,0 +1,69 @@
+
+.container{
+    background-color: rgb(234, 243, 240);
+}
+.header{
+    background-color: rgb(9, 170, 170);
+    color: aliceblue;
+    padding: 15px;
+    font-size: 25px;
+}
+.header{
+    border-radius: 6px;
+    margin: 4px;
+}
+
+.main{
+    position: relative;
+    overflow: auto;
+}
+div{
+    display: block;
+}
+.menu{
+    width: 200px;
+    float: left;
+}
+ul #listamenu{
+    display: block;
+    padding: 9px;
+    
+}
+.itenmenu{
+    border: 1px;
+    background-color: aquamarine;
+    color: aliceblue;
+    padding: 2px;
+    list-style: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.itenmenu{
+    margin: 4px;
+    border-radius: 2px;
+}
+.centro{
+    margin: 0 210px;
+    padding: 10px;
+}
+.derecha{
+    width: 180px;
+    background-color: blue;
+    color: aliceblue;
+    padding: 15px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.footer{
+    background-color: bisque;
+    color: rgb(1, 9, 16);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+
+}

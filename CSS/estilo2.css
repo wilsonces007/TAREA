@@ -1,0 +1,64 @@
+
+.top{
+    background-color: rgb(230, 53, 13);
+    color: aliceblue;
+    padding: 15px;
+    font-size: 30px;
+}
+.top{
+    border-radius: 6px;
+    margin: 4px;
+}
+.main{
+    position: relative;
+    overflow: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.menu{
+    width: 200px;
+    float: right;
+}
+ul #listamenu{
+    display: block;
+    list-style: circle;
+    padding: 4px;
+}
+.itenmenu{
+    border: 10px;
+    background-color: #d14836;
+    color: rgb(230, 234, 238);
+    padding: 2px;
+    list-style: none;
+    cursor: pointer;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.itenmenu{
+    margin: 4px;
+    border-radius: 15px;
+}
+.centro{
+    padding: 10px;
+}
+.sidebar{
+    background-color: #d14836;
+    color: aliceblue;
+    padding: 15px;
+    
+}
+div{
+    display: block;
+}
+
+.abajo{
+    background-color:#d14836;
+    color: rgb(240, 243, 246);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+
+}
